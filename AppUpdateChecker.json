@@ -1,6 +1,6 @@
 {
     "package": {
-        "downloadUrl": "https://github.com/bmcongit/updater/raw/main/appupdater-v0.2.apk"
+        "downloadUrl": "https://drive.google.com/file/d/13qFBUfNlVbCPimOZp-gLxnh5wLUMPSRe/view?usp=drivesdk"
     },
 
     "0.2": {
@@ -8,7 +8,8 @@
     "changelog": [
                   "New automatic update checker",
                   "Improved template interactions",
-                  "Add more bug"
+                  "Fix known bug",
+                  "Add new bug"
                  ]
     },
     "0.1": {
